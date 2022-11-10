@@ -1,3 +1,3 @@
 # zabbix_templates
 
-基于zabbix5.0模板
+基于zabbix5.0
